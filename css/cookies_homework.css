@@ -1,0 +1,89 @@
+
+header {
+	background-color: #A52A2A;
+	padding: 5px;
+}
+
+h1 {
+	font-size: 48px;
+	color: white;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+img {
+	width: 180px;
+	height: 120px;
+	background-size: 10px;
+	border: 0;
+	cursor: pointer;
+}
+
+img:hover {
+	width: 300px;
+	height: 240px;
+}
+
+#choices {
+	width: 860px;
+	height: 620px;	
+	margin: 0 auto;
+	text-align: center;
+	background-image: url("../images/cookie.jpg");
+	background-size: 85%;
+	background-repeat: no-repeat;
+	background-position: center;
+	float: left;
+}
+
+h3 {
+	font-size: 28px;
+	font-style: italic;
+}
+
+form {
+	font-size: 24px;
+	text-shadow: 2px 2px 4px #000000;
+	color: white;
+}
+
+#sugar {
+	margin-top: 65px;
+}
+#choc_lemon {
+	margin: 0 auto;
+	text-align: center;
+	margin-left: 210px;
+	margin-top: 10px;
+}
+
+#chocolate {
+	float: left;
+}
+
+#lemon {
+	float: left;
+	margin-left: 60px;
+}
+
+#counter {
+	font-size: 24px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+#totalCount {
+	font-size: 48px;
+	width: auto;
+	height: auto;
+}
+
+#remove {
+	font-size: 24px;
+	text-align: center;
+}
+
+#remove img {
+	width: 60px;
+	height: 60px;
+}
